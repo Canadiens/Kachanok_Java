@@ -1,0 +1,4 @@
+Given bracket sequence: [((())()(())]]
+ My answer is. This sequence isn`t correct.
+ We need to change the second to last bracket for ] to ) or change the second bracket for ( to [
+ to make it correct.
