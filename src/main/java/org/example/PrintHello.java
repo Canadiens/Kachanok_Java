@@ -10,7 +10,7 @@ public class PrintHello {
         while (!validInput) {
             System.out.print("Enter a number: ");
             if (scanner.hasNextInt()) {
-            int number = scanner.nextInt();
+                int number = scanner.nextInt();
                 validInput = true;
                 if (number > 7) {
                     System.out.println("Hello");
